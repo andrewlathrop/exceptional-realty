@@ -7,4 +7,4 @@ This is an example site for the Intro to Front-end Web Dev Course at the Flatiro
 
 # Contact
 
-email: jon@flatironschool.com
+email: andrew.lathrop@live.com
